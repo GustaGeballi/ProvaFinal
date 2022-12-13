@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Passion+One&display=swap');
+
+.title{
+    display: flex;
+    justify-content: center;
+    font-family: 'Passion One', cursive;
+    font-weight: 400;
+}
