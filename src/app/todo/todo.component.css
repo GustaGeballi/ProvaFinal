@@ -1,46 +1,13 @@
-
-
-/* .titulo{
-    display: flex;
-    justify-content: center;
-}
-
 .dados{
+    background-color: white;
     display: flex;
     justify-content: center;
     flex-direction: row;
     flex-wrap: wrap;
-    padding: 2rem;
+    padding: 2rem 10rem;
     }
 
-.Dado{
-    padding: 5px 40px;
-    border: 1px solid rgb(0, 0, 0);
-    background-color: white;
-}
-.Dado1{
-    font-weight: bold;
-    padding: 5px 40px;
-    border: 1px solid rgb(0, 0, 0);
-    background-color: rgb(21, 40, 151);
-    color: white;
-}
-
-.itens{
-    font-weight: bold;
-    padding: 0px 0px;
-}
-
-.container{
-    width: 100%;
+.titulo{
     display: flex;
     justify-content: center;
-    flex-direction: row;
-    font-weight: bold;
-    font-size: 25px;
 }
-
-.num{
-    margin: 0px 10px;
-    font-weight: 300;
-} */
